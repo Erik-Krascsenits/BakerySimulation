@@ -5,7 +5,7 @@ This application illustrates the production of a medium-sized bakery. First of a
 
 ## Installer
 
-[I'm an inline-style link](https://www.people.inf.elte.hu/cagwkv/installer.exe)
+[installer.exe](people.inf.elte.hu/cagwkv/installer.exe)
 
 ## Screenshots from the game
 
