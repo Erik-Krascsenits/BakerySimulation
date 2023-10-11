@@ -7,7 +7,7 @@ This application illustrates the production of a medium-sized bakery. First of a
 
 [installer.exe](https://people.inf.elte.hu/cagwkv/installer.exe)
 
-## Screenshots from the game
+## Screenshots from the simulation
 
 ![Simulation window](https://raw.githubusercontent.com/Erik-Krascsenits/BakerySimulation/main/3.png)
 
